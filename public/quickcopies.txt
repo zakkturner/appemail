@@ -1,0 +1,39 @@
+style="color: #7f8887;  font-weight: 400;  font-size: 14px; line-height: 1.8; font-family: 'Open Sans',
+                        'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;"
+
+<a href="#" style="color: #2792ec; text-decoration: none; font-weight: 600;  font-size: 14px; font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;">Learn More</a>
+
+<table class="one-solution-table" width="100%" align="left" cellspacing="0" cellpadding="0" border="0" 
+                      style=" padding: 15px 15px 0px 15px; background:white; padding: 50px 0;">
+
+
+<td style="color: #333333; padding: 0 0 0 15px; font-weight: 600; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans',
+                          'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;">Connect</td>
+
+<h3 style="color: #333333; padding: 36px 0 5px 0; font-weight: 300; text-transform: uppercase; font-size: 24px; font-family: 'Open Sans',
+                    'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;" align="center">Hero let's you...</h3>
+
+
+https://i.postimg.cc/RFZ0vSZ8/appstore.png
+https://i.postimg.cc/hvwvCkgY/bell-icon.png
+https://i.postimg.cc/Gh8HBmxn/check-icon.png
+https://i.postimg.cc/ZYDWKd3L/facebook-icon.png
+https://i.postimg.cc/xdRCrJnM/google-icon.png
+https://i.postimg.cc/FsM10XTd/image-head.jpg
+https://i.postimg.cc/MGxTrb2z/linkedin-icon.png
+https://i.postimg.cc/GmvtQgfM/logo.png
+https://i.postimg.cc/gjfcy3HF/menu-icon.png
+https://i.postimg.cc/gJt2JCw0/one-app.jpg
+https://i.postimg.cc/D0WybxsP/phone-icon.png
+https://i.postimg.cc/3r6wHH5S/phone-icon-48.png
+https://i.postimg.cc/x1VTcydL/pinterest-icon.png
+https://i.postimg.cc/K87cLkKw/playstore.png
+https://i.postimg.cc/yYZ81r7V/settings-icon.png
+https://i.postimg.cc/3wK8Z8mR/share-icon.png
+https://i.postimg.cc/1zJ9CkrK/share-icon2.png
+https://i.postimg.cc/1tXyLvW1/smartwatch.png
+https://i.postimg.cc/FR6hm0qd/twitter-icon.png
+https://i.postimg.cc/6qGtQyJH/watch-screen.png
+https://i.postimg.cc/fW39dCMP/watch-screen-37.png
+https://i.postimg.cc/CMWfs81x/wifi-icon.png
+https://i.postimg.cc/DyL4jzJd/youtube-icon.png
